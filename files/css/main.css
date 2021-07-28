@@ -1,0 +1,27 @@
+header {
+   background-color: aqua;
+}
+
+.nosotros {
+   display: flex;
+}
+
+.servicios {
+   display: flex;
+}
+
+.portafolio {
+   display: flex;
+}
+
+.contacto {
+   display: flex;
+}
+
+.footer {
+   display: flex;
+}
+
+footer {
+   background-color: aqua;
+}
